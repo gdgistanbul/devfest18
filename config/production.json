@@ -2,14 +2,14 @@
   "basepath": "/",
   "url": "https://df18-ist.firebaseapp.com/",
   "analytics": "UA-113204402-2",
-  "prefix": "/",
+  "prefix": "2018",
   "firebase": {
-    "apiKey": "AIzaSyCG-Ir_ODkJT5tm43H6n4nOgZDYZvuZJZg",
-    "authDomain": "df18-ist.firebaseapp.com",
-    "databaseURL": "https://df18-ist.firebaseio.com",
-    "projectId": "df18-ist",
-    "storageBucket": "df18-ist.appspot.com",
-    "messagingSenderId": "996823930191"
+    "apiKey": "AIzaSyB_nhzvMXxx_DaJXrMSmJ__SOHvKpxEykY",
+    "authDomain": "df18ist.firebaseapp.com",
+    "databaseURL": "https://df18ist.firebaseio.com",
+    "projectId": "df18ist",
+    "storageBucket": "df18ist.appspot.com",
+    "messagingSenderId": "146428889462"
   },
   "googleMapApiKey": "AIzaSyDWy6O98n-ueoVaYPWRPve23vjm3JP08gw"
 }
