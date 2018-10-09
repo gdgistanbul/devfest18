@@ -42,20 +42,77 @@
     }],
     "title" : "General Partner"
   },{
+    "logos":[
+      {
+        "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/ZeplinVersions_horizontal.png?alt=media&token=a5e1ae34-823c-493d-8cf5-f0aa06f8a159",
+        "name" : "Zeplin",
+        "url" : "https://zeplin.io/"
+      }
+    ],
+    "title" : "Gold Sponsor"
+  },
+  {
+    "logos" : [ {
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/C%CC%A7al%C4%B1s%CC%A7ma%20Yu%CC%88zeyi%201.jpg?alt=media&token=bf359514-09f9-4428-a3d1-9dc948a330f6",
+      "name" : "SliConf",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/C%CC%A7al%C4%B1s%CC%A7ma%20Yu%CC%88zeyi%201.jpg?alt=media&token=bf359514-09f9-4428-a3d1-9dc948a330f6"
+    } ],
+    "title" : "Digital Etkileşim Sponsoru"
+  },{
+    "logos" : [ {
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/Artboard%202.png?alt=media&token=64677e42-491f-4bf4-ab73-00834d408d82",
+      "name" : "Pub Story",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/Artboard%202.png?alt=media&token=64677e42-491f-4bf4-ab73-00834d408d82"
+    } ],
+    "title" : "Eğlence Sponsoru"
+  },{
+    "logos" : [ {
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/sendloop-logo-3.png?alt=media&token=b0a7f48b-d456-488d-9c44-6b52778d1eef",
+      "name" : "Sendloop",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/sendloop-logo-3.png?alt=media&token=b0a7f48b-d456-488d-9c44-6b52778d1eef"
+    } ],
+    "title" : "Mail Provider"
+  },{
+    "logos" : [ {
+      "logoUrl" : "http://2017.wtmistanbul.com/img/organizers/wtm_logo.png",
+      "name" : "WTM Istanbul",
+      "url" : "http://wtmistanbul.com"
+    }, {
+      "logoUrl" : "../images/logos/gdgeskisehir.png",
+      "name" : "GDG Eskişehir",
+      "url" : "https://twitter.com/GdgEskisehir"
+    }, {
+      "logoUrl" : "../images/logos/gdgtekirdag.jpg",
+      "name" : "GDG Tekirdağ",
+      "url" : "https://twitter.com/GdgTekirdag"
+    }, {
+      "logoUrl" : "../images/logos/GDG-Edirne-Logo.png",
+      "name" : "GDG Edirne",
+      "url" : "https://twitter.com/GDGEdirne"
+    }, {
+      "logoUrl" : "../images/logos/gdgKocaeliLogo.png",
+      "name" : "GDG Kocaeli",
+      "url" : "https://twitter.com/GDGKocaeli",
+      "width": 145,
+      "height": 80
+    },{
+      "logoUrl" : "../images/logos/gdgKutahyaLogo.png",
+      "name" : "GDG Kütahya",
+      "url" : "https://twitter.com/GDGKutahya"
+    },{
+      "logoUrl" : "../images/logos/gdgDuzceLogo.JPG",
+      "name" : "GDG Düzce",
+      "url" : "https://twitter.com/GDGDuzce"
+    } ],
+    "title" : "Community Partners"
+  }, {
     "logos" : [ {
       "logoUrl" : "../images/logos/gdg-lviv.svg",
       "name" : "GDG Lviv",
       "url" : "https://plus.google.com/102444623953913144164"
     } ],
     "title" : "Template Creator"
-  },{
-    "logos" : [ {
-      "logoUrl" : ".https://sendloop.com/images/logos/sendloop-logo-5.png",
-      "name" : "Sendloop",
-      "url" : "https://sendloop.com/images/logos/sendloop-logo-5.png"
-    } ],
-    "title" : "Mail Provider"
-  } ],
+  }],
   "schedule" : {
     "2018-11-04" : {
       "dateReadable" : "November 4",
@@ -656,11 +713,110 @@
         "name" : "Twitter"
       }],
       "tags" : [ "Design" ]
+    },
+    "Laura Morinigo": {
+      "bio" : "Laura is a Google Developer Expert in Firebase, entrepreneur, and mentor. She has been involved in the tech industry over 10 years, working with different technologies as a fullstack developer and getting involved with education projects teaching coding. She is one of the organizers of GDG Cloud London and Women Techmakers lead. Originally from Buenos Aires, Argentina, she has been a digital nomad for about one year, traveling around; doing talks, workshops and connecting with the local tech communities. While she was on the road she created with her co-founders DMode Labs: a software company that promotes diversity and remote working.",
+      "company" : "DMod Labs",
+      "companyLogoUrl" : "https://dmodlabs.com/img/logoDML_transparent_background.png",
+      "country" : "Argentina",
+      "featured" : true,
+      "name" : "Laura Morinigo",
+      "photoUrl" : "https://scontent.fbtz1-10.fna.fbcdn.net/v/t31.0-1/c394.0.1202.1202/24130381_10155885452738523_1567860032777030525_o.jpg?_nc_cat=105&oh=ac3ff0ff4d1ff063309c0ffbe9270eb3&oe=5C1DE897",
+      "shortBio" : "Laura is a Google Developer Expert in Firebase, entrepreneur, and mentor. ",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/laurasmorinigo/?locale=en_US",
+        "name" : "Linkedin"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/lala_morinigo",
+        "name" : "Twitter"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/lauramorinigo",
+        "name" : "Github"
+      }, {
+        "icon" : "website",
+        "link" : "https://medium.com/@laura.s.morinigo",
+        "name" : "Website"
+      } ],
+      "tags" : [ "Firebase" ],
+      "title" : "Software Developer"
+    },
+    "HasanHosgel" :{
+      "name" : "Hasan Hosgel",
+      "title": "Android GDE & Senior Android Engineer",
+      "company" : "LAB1866",
+      "photoUrl" : "https://pbs.twimg.com/profile_images/942698873432297472/xZ7dBCI0_400x400.jpg",
+      "bio":"Hasan Hoşgel is a dedicated Android developer with professional programming experience since 2003. Since 2010 doing all day long Android application development and also is a Google Developer Expert for Android. Continuous improvement of the architecture, performance and also quality are his dedication.  He works for Lab1886, beforehand a long time for ImmobilienScout24, Germany’s real estate marketplace leader and also for Kitchen Stories, which offered a premium cooking application. As a co-organizer of the “GDG Berlin Android” and as a speaker, he attended many mobile conferences and several Google Developer Groups across Europe. As well being in program committees and organization of mobile conferences.",
+      "shortBio":"Hasan Hoşgel is a dedicated Android developer with professional programming experience since 2003. Since 2010 doing all day long Android application development and also is a Google Developer Expert for Android. ",
+      "country" : "Berlin, Germany",
+      "featured" : true,
+      "socials" : [{
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/hosgel",
+        "name" : "Linkedin"
+      },{
+        "icon" : "twitter",
+        "link" : "https://www.twitter.com/alosdev",
+        "name" : "Twitter"
+      },{
+        "icon" : "github",
+        "link" : "https://www.github.com/alosdev",
+        "name" : "Github"
+      }],
+      "tags" : [ "Android" ]
     }
-
   },
   "team" : [ {
-    "members" : [ {
+    "title" : "Core Team",
+    "members" : [
+      {
+        "name" : "Erol Kaftanoğlu",
+        "photo" : "/images/team/erol_kaftanoglu.jpg",
+        "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/df18-ist.appspot.com/o/images%2Fteam%2Ferol_kaftanoglu.png?alt=media&token=70ece4ed-08b3-40e1-a67f-c1f57183c3bd",
+        "socials" : [ {
+          "icon" : "linkedin",
+          "link" : "https://www.linkedin.com/in/erolkaftanoglu",
+          "name" : "Linkedin"
+        }, {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/erolkaftanoglu",
+          "name" : "Twitter"
+        }, {
+          "icon" : "facebook",
+          "link" : "https://www.facebook.com/ori10",
+          "name" : "Facebook"
+        }, {
+          "icon" : "website",
+          "link" : "http://erolkaftanoglu.com",
+          "name" : "Blog"
+        } ],
+        "title" : "Website & Speakers"
+      },
+        {
+        "name" : "Caner Yıldırım",
+        "photo" : "/images/team/resulcaner_yildirim.jpg",
+        "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/df18-ist.appspot.com/o/images%2Fteam%2Fresulcaner_yildirim.png?alt=media&token=b60dbe5f-4407-4d86-a406-6c4913e77466",
+        "socials" : [ {
+          "icon" : "linkedin",
+          "link" : "https://linkedin.com/in/protechman",
+          "name" : "Linkedin"
+        }, {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/protechman",
+          "name" : "Twitter"
+        }, {
+          "icon" : "facebook",
+          "link" : "https://facebook.com/protechman",
+          "name" : "Facebook"
+        }, {
+          "icon" : "website",
+          "link" : "https://artisanux.com",
+          "name" : "Blog"
+        } ],
+        "title" : "Design & Speakers"
+      } , {
       "name" : "Burcu Yalçınkaya",
       "photo" : "/images/team/burcu_yalcinkaya.png",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/df18-ist.appspot.com/o/images%2Fteam%2Fburcu_yalcinkaya.png?alt=media&token=64ef667f-3ba9-4ee6-9087-3821d1fd610d",
@@ -683,28 +839,6 @@
       } ],
       "title" : "Sponsors & Budget"
     }, {
-      "name" : "Caner Yıldırım",
-      "photo" : "/images/team/resulcaner_yildirim.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/df18-ist.appspot.com/o/images%2Fteam%2Fresulcaner_yildirim.png?alt=media&token=b60dbe5f-4407-4d86-a406-6c4913e77466",
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://linkedin.com/in/protechman",
-        "name" : "Linkedin"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/protechman",
-        "name" : "Twitter"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://facebook.com/protechman",
-        "name" : "Facebook"
-      }, {
-        "icon" : "website",
-        "link" : "https://artisanux.com",
-        "name" : "Blog"
-      } ],
-      "title" : "Design & Speakers"
-    }, {
       "name" : "Dilruba Yücesoy",
       "photo" : "/images/team/dilruba_yucesoy.jpg",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/df18-ist.appspot.com/o/images%2Fteam%2Fdilruba_yucesoy.png?alt=media&token=700058d5-c8cf-4ddd-b267-bfc3be495dc9",
@@ -722,175 +856,6 @@
         "name" : "Facebook"
       } ],
       "title" : "Social Media & Website"
-    }, {
-      "name" : "Erol Kaftanoğlu",
-      "photo" : "/images/team/erol_kaftanoglu.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/df18-ist.appspot.com/o/images%2Fteam%2Ferol_kaftanoglu.png?alt=media&token=70ece4ed-08b3-40e1-a67f-c1f57183c3bd",
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/erolkaftanoglu",
-        "name" : "Linkedin"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/erolkaftanoglu",
-        "name" : "Twitter"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/ori10",
-        "name" : "Facebook"
-      }, {
-        "icon" : "website",
-        "link" : "http://erolkaftanoglu.com",
-        "name" : "Blog"
-      } ],
-      "title" : "Website & Speakers"
-    }, {
-      "name" : "Zülfü Adar",
-      "photo" : "/images/team/zulfu_adar.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/df18-ist.appspot.com/o/images%2Fteam%2Fzulfu_adar.png?alt=media&token=f5ff6d87-4f0c-49f2-a000-8845b2e03157",
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/z%C3%BClf%C3%BC-adar-95065a88/",
-        "name" : "Linkedin"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/zulfu.adar",
-        "name" : "Facebook"
-      } ],
-      "title" : "Speakers"
-    } ],
-    "title" : "Core Team"
-  }, {
-    "members" : [ {
-      "name" : "Ali Şahin Aydoğan",
-      "photo" : "/images/team/alisahin_aydogan.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/df18-ist.appspot.com/o/images%2Fteam%2Falisahin_aydogan.png?alt=media&token=0a989bfd-3905-4958-95c0-bf5326d51688",
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://linkedin.com/in/alisahinaydogan",
-        "name" : "Linkedin"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/aydoganalisahin",
-        "name" : "Twitter"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://facebook.com/alisahinaydogan",
-        "name" : "Facebook"
-      }, {
-        "icon" : "website",
-        "link" : "https://alisahinaydogan.com",
-        "name" : "Blog"
-      } ],
-      "title" : "Design"
-    }, {
-      "name" : "Burak Keleş",
-      "photo" : "/images/team/burak_keles.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/df18-ist.appspot.com/o/images%2Fteam%2Fburak_keles.png?alt=media&token=47293836-8da3-4c49-b891-7f3f82c446de",
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/kelesburak/",
-        "name" : "Linkedin"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/burakeless",
-        "name" : "Twitter"
-      } ],
-      "title" : "Design"
-    } ],
-    "title" : "Design Committee"
-  }, {
-    "members" : [ {
-      "name" : "Cafer Mert Ceyhan",
-      "photo" : "/images/team/cafermert_ceyhan.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/df18-ist.appspot.com/o/images%2Fteam%2Fcafermert_ceyhan.png?alt=media&token=67f2c83a-52d8-4a41-a874-5708983df2a9",
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/mertceyhan/",
-        "name" : "Linkedin"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/MertCeyhan",
-        "name" : "Twitter"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/c.mertceyhan",
-        "name" : "Facebook"
-      } ],
-      "title" : "Social Media & Speakers"
-    } ],
-    "title" : "Social Media Committee"
-  }, {
-    "members" : [ {
-      "name" : "Behlül Kuşaslan",
-      "photo" : "/images/team/behul_kusaslan.jpg",
-      "photoUrl" : "",
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/behl%C3%BCl-ku%C5%9Faslan",
-        "name" : "Linkedin"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/behlulkusaslan",
-        "name" : "Facebook"
-      } ],
-      "title" : "Speakers"
-    } ],
-    "title" : "Speaker Committee"
-  }, {
-    "members" : [ {
-      "name" : "Selahattin Köle",
-      "photo" : "/images/team/selahattin_kole.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/df18-ist.appspot.com/o/images%2Fteam%2Fselahattin_kole.png?alt=media&token=302e10ed-b9e8-427c-a841-d3761b653759",
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/selahattinkole/",
-        "name" : "Linkedin"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/selahattinkole",
-        "name" : "Twitter"
-      } ],
-      "title" : "Sponsors"
-    }, {
-      "name" : "Seren Gül",
-      "photo" : "/images/team/seren_gul.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/df18-ist.appspot.com/o/images%2Fteam%2Fseren_gul.png?alt=media&token=d0f3ee68-5a11-4b53-8ed0-a22c008f96a3",
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/seren-gul/",
-        "name" : "Linkedin"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/Srngl34",
-        "name" : "Twitter"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/seren.gul.754",
-        "name" : "Facebook"
-      } ],
-      "title" : "Sponsors"
-    } ],
-    "title" : "Sponsorship Committee"
-  }, {
-    "members" : [ {
-      "name" : "Hüseyin Karagöz",
-      "photo" : "/images/team/huseyin_karagoz.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/df18-ist.appspot.com/o/images%2Fteam%2Fhuseyin_karagoz.png?alt=media&token=cec80a29-d561-476e-87fa-a5046e4d059eg",
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://linkedin.com/in/huseyinkaragoz/",
-        "name" : "Linkedin"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/huseyinnkaragoz",
-        "name" : "Twitter"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://facebook.com/huseynkaragoz",
-        "name" : "Facebook"
-      } ],
-      "title" : "Website & Social Media"
     }, {
       "name" : "Onur Şafak",
       "photo" : "/images/team/onur_safak.jpg",
@@ -912,53 +877,69 @@
         "link" : "http://www.osafak.com/",
         "name" : "Blog"
       } ],
-      "title" : "Website"
+      "title" : "Website & Speaker"
+    },  {
+      "name" : "Cafer Mert Ceyhan",
+      "photo" : "/images/team/cafermert_ceyhan.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/df18-ist.appspot.com/o/images%2Fteam%2Fcafermert_ceyhan.png?alt=media&token=67f2c83a-52d8-4a41-a874-5708983df2a9",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/mertceyhan/",
+        "name" : "Linkedin"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/MertCeyhan",
+        "name" : "Twitter"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/c.mertceyhan",
+        "name" : "Facebook"
+      } ],
+      "title" : "Social Media & Speakers"
+    },{
+      "name" : "Behlül Kuşaslan",
+      "photo" : "http://kusaslan.com/images/profile/behlul.jpg",
+      "photoUrl" : "http://kusaslan.com/images/profile/behlul.jpg",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/behl%C3%BCl-ku%C5%9Faslan",
+        "name" : "Linkedin"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/behlulkusaslan",
+        "name" : "Facebook"
+      } ],
+      "title" : "Speakers"
     }, {
-      "name" : "Yasin Güzel",
-      "photo" : "/images/team/yasin_guzel.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/df18-ist.appspot.com/o/images%2Fteam%2Fyasin_guzel.png?alt=media&token=e5e9a9a8-6c05-4a26-b575-97ea3682fb82",
+      "name" : "Zülfü Adar",
+      "photo" : "/images/team/zulfu_adar.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/df18-ist.appspot.com/o/images%2Fteam%2Fzulfu_adar.png?alt=media&token=f5ff6d87-4f0c-49f2-a000-8845b2e03157",
       "socials" : [ {
         "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/yasinguzel/",
+        "link" : "https://www.linkedin.com/in/z%C3%BClf%C3%BC-adar-95065a88/",
+        "name" : "Linkedin"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/zulfu.adar",
+        "name" : "Facebook"
+      } ],
+      "title" : "Speakers"
+    }, {
+      "name" : "Selahattin Köle",
+      "photo" : "/images/team/selahattin_kole.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/df18-ist.appspot.com/o/images%2Fteam%2Fselahattin_kole.png?alt=media&token=302e10ed-b9e8-427c-a841-d3761b653759",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/selahattinkole/",
         "name" : "Linkedin"
       }, {
         "icon" : "twitter",
-        "link" : "https://twitter.com/_yasinguzel",
+        "link" : "https://twitter.com/selahattinkole",
         "name" : "Twitter"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/yasin.guzel.se",
-        "name" : "Facebook"
-      }, {
-        "icon" : "website",
-        "link" : "https://github.com/yasinguzel",
-        "name" : "Blog"
       } ],
-      "title" : "Website"
-    } ],
-    "title" : "Website Committee"
-  }, {
-    "members" : [ {
-      "name" : "Ali Can Batur",
-      "photo" : "/images/team/alican_batur.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/df18-ist.appspot.com/o/images%2Fteam%2Falican_batur.png?alt=media&token=4e3daed0-1e14-43a7-8ff9-55850d23e6e4",
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/alicanbatur/",
-        "name" : "Linkedin"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/alicanbatur",
-        "name" : "Twitter"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/profile.php?id=735601552",
-        "name" : "Facebook"
-      } ],
-      "title" : "Event Team"
-    } ],
-    "title" : "Event Team"
-  } ],
+      "title" : "Baskı"
+    }]
+  }],
   "tickets" : [ {
     "available" : true,
     "currency" : "₺",
@@ -966,20 +947,33 @@
     "inDemand" : false,
     "info" : "Student",
     "name" : "Student",
-    "price" : 50,
+    "price" : 56.50,
     "primary" : true,
     "regular" : true,
     "soldOut" : false,
     "starts" : "Sep 12",
     "url" : "http://www.biletix.com/etkinlik/VR501/ISTANBUL/tr"
-  }, {
+  },{
+    "available" : false,
+    "currency" : "₺",
+    "ends" : "Nov 2",
+    "inDemand" : false,
+    "info" : "Devfest",
+    "name" : "Early-Birds",
+    "price" : 84.50,
+    "primary" : true,
+    "regular" : true,
+    "soldOut" : true,
+    "starts" : "Sep 12",
+    "url" : "http://www.biletix.com/etkinlik/VR501/ISTANBUL/tr"
+  },{
     "available" : true,
     "currency" : "₺",
     "ends" : "Nov 2",
     "inDemand" : false,
     "info" : "Devfest",
     "name" : "Regular",
-    "price" : 100,
+    "price" : 113,
     "primary" : true,
     "regular" : true,
     "soldOut" : false,
