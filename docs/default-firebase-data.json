@@ -57,7 +57,7 @@
       "name" : "SliConf",
       "url" : "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/C%CC%A7al%C4%B1s%CC%A7ma%20Yu%CC%88zeyi%201.jpg?alt=media&token=bf359514-09f9-4428-a3d1-9dc948a330f6"
     } ],
-    "title" : "Digital Etkileşim Sponsoru"
+    "title" : "Dijital Etkileşim Sponsoru"
   },{
     "logos" : [ {
       "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/Artboard%202.png?alt=media&token=64677e42-491f-4bf4-ab73-00834d408d82",
@@ -639,11 +639,11 @@
       "tags" : [ "Generic Software Engineering" ]
     },
     "MandyChan" :{
-      "name" : "Mandy Chan Mandy",
+      "name" : "Mandy Cahn",
       "title": "Developer Community Manager",
       "company" : "Google",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/virtual-p-46482.appspot.com/o/Mandy%20Chan.png?alt=media&token=622fbf98-eb81-4d46-a129-23f5acc6773f",
-      "bio": "Mandy Chan is the Developer Community Manager on the Actions On Google team, where she is responsible for creating practical content for the developer community. At I/O 2018, Mandy and the team published two Codelabs to guide developers on how to build Actions. Since then, the Codelabs have trained thousands of new developers from around the world. She is a frequent speaker at different developer conferences, including the Grace Hopper Conference in 2017 and 2018. She was recently invited as a guest on the Google Cloud Platform Podcast. You can hear more about her recent activities on http://bit.ly/gcp-mandy. Prior to Google, she made many early contributions to the voice community. One of her most frequently downloaded open source projects is called SSML Builder, which creates well-formed Speech Synthesis Markup Language without worrying about string concatenation. When she is not pondering how to improve the developer experience, you can find her programming, hiking in the mountains, or learning new magic tricks. You can learn more about Mandy by following her on Twitter (@MandyChanNYC)!",
+      "bio": "Mandy Cahn is the Developer Community Manager on the Actions On Google team, where she is responsible for creating practical content for the developer community. At I/O 2018, Mandy and the team published two Codelabs to guide developers on how to build Actions. Since then, the Codelabs have trained thousands of new developers from around the world. She is a frequent speaker at different developer conferences, including the Grace Hopper Conference in 2017 and 2018. She was recently invited as a guest on the Google Cloud Platform Podcast. You can hear more about her recent activities on http://bit.ly/gcp-mandy. Prior to Google, she made many early contributions to the voice community. One of her most frequently downloaded open source projects is called SSML Builder, which creates well-formed Speech Synthesis Markup Language without worrying about string concatenation. When she is not pondering how to improve the developer experience, you can find her programming, hiking in the mountains, or learning new magic tricks. You can learn more about Mandy by following her on Twitter (@MandyChanNYC)!",
       "shortBio":"Mandy Chan is the Developer Community Manager on the Actions On Google team, where she is responsible for creating practical content for the developer community",
       "companyLogoUrl" : "https://devfest.istanbul/images/logos/google.svg",
       "country" : "San Francisco, California",
@@ -877,7 +877,7 @@
         "link" : "http://www.osafak.com/",
         "name" : "Blog"
       } ],
-      "title" : "Website & Speaker"
+      "title" : "Website & Sponsors"
     },  {
       "name" : "Cafer Mert Ceyhan",
       "photo" : "/images/team/cafermert_ceyhan.jpg",
