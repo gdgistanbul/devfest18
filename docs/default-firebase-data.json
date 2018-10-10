@@ -766,6 +766,156 @@
         "name" : "Github"
       }],
       "tags" : [ "Android" ]
+    },
+	"Ahmet Can Güven": {
+      "bio" : "2017 yılı Atılım Üniversitesi Bilgisayar Mühendisliği Bölümü mezunuyum.Yaklaşık 5 senedir web teknolojileri üzerinde çalışmaktayım.Özellikle front-end ve javascript teknolojileri üzerinde uzmanlaşmaktayım.Şu an Trendyol'da web takımında micro-frontends mimarisiyle yeni mobil web sitesini yazan takımın üyesiyim.",
+      "company" : "Trendyol",
+      "companyLogoUrl" : "https://www.trendyol.com/content/images/trendyol-online-white.png",
+      "country" : "Istanbul,Turkey",
+      "featured" : true,
+      "name" : "Ahmet Can Güven",
+	  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest18-tr.appspot.com/o/987174.jfif?alt=media&token=398de3c8-a0ff-4344-b0a5-d72df3061355",
+      "shortBio" : "Laura is a Google Developer Expert in Firebase, entrepreneur, and mentor. ",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/acanguven/",
+        "name" : "Linkedin"
+      },{
+        "icon" : "github",
+        "link" : "https://github.com/Acanguven",
+        "name" : "Github"
+      }],
+      "tags" : [ "Web Technologies" ],
+      "title" : "Software Developer"
+    },
+	"Dylan Drost": {
+      "bio" : "I’m an Android developer working at SnappCar working on a platform to share and rent cars, like AirBnb but for cars. Occasional web developer/server admin for Bettyskitchen a food blog which is run by my wife with over a 1000 post and around 90/100k visitors per month.",
+      "company" : "SnappCar",
+      "companyLogoUrl" : "https://www.snappcar.nl/assets/snappcar-logo.svg",
+      "country" : "Netherlands",
+      "featured" : true,
+      "name" : "Dylan Drost",
+	  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest18-tr.appspot.com/o/dylandrost.jpeg?alt=media&token=628ce9f2-6160-4e52-bed1-cdedcd137f8c",
+      "shortBio" : "Dylan is Android developer at SnappCar.",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/dylandrost",
+        "name" : "Linkedin"
+      },{
+        "icon" : "github",
+        "link" : "https://github.com/aegis123",
+        "name" : "Github"
+      },{
+        "icon" : "twitter",
+        "link" : "https://twitter.com/aegis321",
+        "name" : "Twitter"
+      },{
+        "icon" : "website",
+        "link" : "https://plus.google.com/u/1/+DylanDrost",
+        "name" : "Website"
+      }],
+      "tags" : [ "Flutter" ],
+      "title" : "Android Developer"
+    },
+	"Mark Stephens": {
+      "bio" : "Mark Stephens was a speaker at DevFest 13,14, 15 and 17. He has been working with Java since 1997 and PDF since 1999. He is an Entrepreneur and software developer who setup his own company in 1999. IDRsolutions develops a Java PDF library and a PDF to HTML5/SVG converter. He helps to organise NetBeans UK conference and is doing 2 NetBeans talks at Oracle CodeOne. Mark has an MSC degree in Computer Science and an MA in Mediaeval History with a detailed knowledge of Byzantine and Ottoman History. So DevFest is his dream conference as he can combine software and coding with palaces, churches, mosques and cisterns.",
+      "company" : "IDRsolutions",
+      "companyLogoUrl" : "https://www.idrsolutions.com/wp-content/uploads/2017/12/IDRSmallwithbreak.png",
+      "country" : "United Kingdom",
+      "featured" : true,
+      "name" : "Mark Stephens",
+	  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest18-tr.appspot.com/o/mark.jpg?alt=media&token=201ea472-92f6-4986-8581-31b825bd1d5d",
+      "shortBio" : "He has been working with Java since 1997 and PDF since 1999. He is an Entrepreneur and software developer who setup his own company in 1999.",
+      "tags" : [ "Java" ],
+      "title" : "Ceo / Founder"
+    },
+	"Bethan Palmer": {
+      "bio" : "Bethan Palmer is a Java developer at IDRsolutions where she works on the Java PDF library and PDF to HTML5/SVG converters. Bethan has spoken twice at Oracle Code One. She is really looking forward to her very first DevFest with the chance to share her enthusiasm for NetBeans, meet lots of new people, see the sites and say hello to the cats in Istanbul.",
+      "company" : "IDRsolutions",
+      "companyLogoUrl" : "https://www.idrsolutions.com/wp-content/uploads/2017/12/IDRSmallwithbreak.png",
+      "country" : "United Kingdom",
+      "featured" : true,
+      "name" : "Bethan Palmer",
+	  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest18-tr.appspot.com/o/bethan.jpg?alt=media&token=9eba9937-48c9-4d07-bf83-b11194977c2e",
+      "shortBio" : "Bethan Palmer is a Java developer at IDRsolutions where she works on the Java PDF library and PDF to HTML5/SVG converters.",
+      "tags" : [ "Java" ],
+      "title" : "Software Developer"
+    },
+	"Bahar Kenaroglu Uzan": {
+      "bio" : "There are revolutionary changes happening in hardware and software that are democratizing machine learning (ML). Whether you're new to ML or already an expert, Google Cloud Platform has a variety of tools for users.",
+      "company" : "Google",
+      "companyLogoUrl" : "https://devfest.istanbul/images/logos/google.svg",
+      "country" : "Istanbul, Turkey",
+      "featured" : true,
+      "name" : "Bahar Kenaroglu Uzan",
+	  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest18-tr.appspot.com/o/bahar%20kenan.jpg?alt=media&token=d9b875dc-d09e-4c23-b118-ea4725171e33",
+      "shortBio" : "There are revolutionary changes happening in hardware and software that are democratizing machine learning.",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/baharuzan/",
+        "name" : "Linkedin"
+      }],
+      "tags" : [ "Machine Learning & AI" ],
+      "title" : "Cloud Customer Engineer"
+    },
+	"Hadi Tok": {
+      "bio" : "7+ years Android experience developed more than 20 Mobile applications published to store. Developed applications for Android, server side Java EE and Windows phone 8 Developed web services for mobile and several web based applications using Java. Developed Mobile applications for companies -leaders in their fields in Turkey- like Turkcell, TTNET, Vestel and Arena",
+      "company" : "Citizenme",
+      "companyLogoUrl" : "http://www.citizenme.com/public/wp/wp-content/uploads/2016/03/Citizen_Me_Logo.png",
+      "country" : "Istanbul, Turkey",
+      "featured" : true,
+      "name" : "Hadi Tok",
+	  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest18-tr.appspot.com/o/haditok.jpeg?alt=media&token=9d858f2f-f3b0-4795-bcdd-d1640e1edeab",
+      "shortBio" : "Developed applications for Android, server side Java EE and Windows phone 8 Developed web services for mobile and several web based applications using Java.",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/haditok/",
+        "name" : "Linkedin"
+      },{
+        "icon" : "github",
+        "link" : "https://github.com/oshamahue",
+        "name" : "Github"
+      },{
+        "icon" : "website",
+        "link" : "https://medium.com/@oshamahue",
+        "name" : "Website"
+      }],
+      "tags" : [ "Kotlin" ],
+      "title" : "Lead Android Developer"
+    },
+	"Çağatay Çivici": {
+      "bio" : "Cagatay Civici is a Java Champion and a front-end engineer. As the founder of popular PrimeFaces, PrimeNG and PrimeReact open source UI component suites, he has been working with various web technologies for over 10 years.",
+      "company" : "PrimeTek",
+      "companyLogoUrl" : "https://www.primefaces.org/wp-content/uploads/2018/05/primetek_logo.png",
+      "country" : "Ankara, Turkey",
+      "featured" : true,
+      "name" : "Çağatay Çivici",
+	  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest18-tr.appspot.com/o/%C3%A7a%C4%9Fataycivivi.jpg?alt=media&token=ecc855db-7b4a-44e3-b867-772e86787db4",
+      "shortBio" : "Cagatay Civici is a Java Champion and a front-end engineer.",
+      "socials" : [ {
+        "icon" : "github",
+        "link" : "https://github.com/cagataycivici",
+        "name" : "Github"
+      }],
+      "tags" : [ "Web Technologies" ],
+      "title" : "CEO"
+    },
+	"Tufan Küpeli": {
+      "bio" : "Mobil teknolojileri takip etmek ve güncel konularla çalışmaktan zevk alırım, şu anda Adesso Turkey firmasında çalışıyorum ve Akbank lokasyonunda kurulu ekibimiz ile çalışmalarımıza devam ediyoruz.",
+      "company" : "Adesso Turkey",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest18-tr.appspot.com/o/adesso.png?alt=media&token=aed34ed2-7749-4039-974f-0cc288c671e4",
+      "country" : "Istanbul, Turkey",
+      "featured" : true,
+      "name" : "Tufan Küpeli",
+	  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest18-tr.appspot.com/o/tufankupeli.jpg?alt=media&token=32a27ac9-d2c8-42e4-baf1-3b5844796234",
+      "shortBio" : "Mobil teknolojileri takip etmek ve güncel konularla çalışmaktan zevk alırım, şu anda Adesso Turkey firmasında çalışıyorum ve Akbank lokasyonunda kurulu ekibimiz ile çalışmalarımıza devam ediyoruz.",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://tr.linkedin.com/in/tufan-k%C3%BCpeli-92715629",
+        "name" : "Linkedin"
+      }],
+      "tags" : [ "Android" ],
+      "title" : "Mobile Team Lead"
     }
   },
   "team" : [ {
