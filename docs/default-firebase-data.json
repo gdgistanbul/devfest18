@@ -639,7 +639,7 @@
       "tags" : [ "Generic Software Engineering" ]
     },
     "MandyChan" :{
-      "name" : "Mandy Cahn",
+      "name" : "Mandy Chan",
       "title": "Developer Community Manager",
       "company" : "Google",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/virtual-p-46482.appspot.com/o/Mandy%20Chan.png?alt=media&token=622fbf98-eb81-4d46-a129-23f5acc6773f",
@@ -768,14 +768,14 @@
       "tags" : [ "Android" ]
     },
 	"Ahmet Can Güven": {
-      "bio" : "2017 yılı Atılım Üniversitesi Bilgisayar Mühendisliği Bölümü mezunuyum.Yaklaşık 5 senedir web teknolojileri üzerinde çalışmaktayım.Özellikle front-end ve javascript teknolojileri üzerinde uzmanlaşmaktayım.Şu an Trendyol'da web takımında micro-frontends mimarisiyle yeni mobil web sitesini yazan takımın üyesiyim.",
+      "bio" : "Ahmet Can is a front-end engineer at Trendyol. He is passionate about making the web faster! He is mainly focused on javascript and front-end technologies. He loves to contribute open source projects and currently working on a framework which implements the micro-frontends architecture using NodeJs.",
       "company" : "Trendyol",
       "companyLogoUrl" : "https://www.trendyol.com/content/images/trendyol-online-white.png",
       "country" : "Istanbul,Turkey",
       "featured" : true,
       "name" : "Ahmet Can Güven",
 	  "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest18-tr.appspot.com/o/987174.jfif?alt=media&token=398de3c8-a0ff-4344-b0a5-d72df3061355",
-      "shortBio" : "Laura is a Google Developer Expert in Firebase, entrepreneur, and mentor. ",
+      "shortBio" : "Ahmet Can is a front-end engineer at Trendyol. He is passionate about making the web faster!",
       "socials" : [ {
         "icon" : "linkedin",
         "link" : "https://www.linkedin.com/in/acanguven/",
