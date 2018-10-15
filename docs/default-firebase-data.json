@@ -916,6 +916,28 @@
       }],
       "tags" : [ "Android" ],
       "title" : "Mobile Team Lead"
+    },
+	"SelinAlaraOrnek" :{
+      "name" : "Selin Alara Örnek",
+      "title": "Student",
+      "company" : "",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest18-tr.appspot.com/o/WhatsApp%20Image%202018-10-09%20at%2021.05.43.jpeg?alt=media&token=e14675b2-cd2a-44d5-b32d-978b3a9bb4ab",
+      "bio": "I am a 12 years old student at Özel Küçük Prens Ortaokulu. I love robotics, coding, technology and animals. I speak English, Turkish and French. This year I built a guide dog robot for visually impaired people, my robot dog iC4U and I won the first prize in the hardware category at Coderdojo's International Coolest Projects 2018 and we were also one of the 5 finalists in the open innovation category of the European Youth Awards. ",
+      "shortBio":"I am a 12 years old student at Özel Küçük Prens Ortaokulu. I love robotics, coding, technology and animals. I speak English, Turkish and French.",
+      "companyLogoUrl" : "https://devfest.istanbul/images/logos/google.svg",
+      "country" : "Istanbul, Turkey",
+      "featured" : true,
+      "socials" : [{
+        "icon" : "twitter",
+        "link" : "https://twitter.com/Selinoid2",
+        "name" : "Twitter"
+      },
+	  {
+          "icon" : "website",
+          "link" : "http://www.selinoid.com",
+          "name" : "Website"
+        }],
+      "tags" : [ "Assistant" ]
     }
   },
   "team" : [ {
