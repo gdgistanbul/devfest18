@@ -1,0 +1,17 @@
+{
+    "2": {
+        "url": "http://hurriyet.com.tr",
+        "name": "Hürriyet",
+        "logoUrl": "https://grafikservisi.net/gs/Hurriyet-logo.png"
+    },
+    "3": {
+        "name": "Milliyet",
+        "logoUrl": "https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/256-101_import.png",
+        "url": "http://milliyet.com.tr"
+    },
+    "000": {
+        "name": "Indir.com",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/indir-logo-728x375.png?alt=media&token=997a5c3a-a09d-4b32-9b41-806c01d02fb8",
+        "url": "http://indir.com"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "000": {
+        "url": "http://wtmistanbul.com",
+        "name": "WTM Istanbul",
+        "logoUrl": "http://2017.wtmistanbul.com/img/organizers/wtm_logo.png"
+    },
+    "001": {
+        "url": "https://twitter.com/GdgEskisehir",
+        "name": "GDG Eskişehir",
+        "logoUrl": "../images/logos/gdgeskisehir.png"
+    },
+    "002": {
+        "url": "https://twitter.com/GdgTekirdag",
+        "name": "GDG Tekirdağ",
+        "logoUrl": "../images/logos/gdgtekirdag.jpg"
+    },
+    "003": {
+        "name": "GDG Edirne",
+        "logoUrl": "../images/logos/GDG-Edirne-Logo.png",
+        "url": "https://twitter.com/GDGEdirne"
+    },
+    "004": {
+        "height": 80,
+        "name": "GDG Kocaeli",
+        "logoUrl": "../images/logos/gdgKocaeliLogo.png",
+        "width": 145,
+        "url": "https://twitter.com/GDGKocaeli"
+    },
+    "005": {
+        "url": "https://twitter.com/GDGKutahya",
+        "name": "GDG Kütahya",
+        "logoUrl": "../images/logos/gdgKutahyaLogo.png"
+    },
+    "006": {
+        "name": "GDG Düzce",
+        "logoUrl": "../images/logos/gdgDuzceLogo.JPG",
+        "url": "https://twitter.com/GDGDuzce"
+    },
+    "007": {
+        "name": "Agile Days",
+        "logoUrl": "https://lh3.googleusercontent.com/-P8XFYRIB16M/AAAAAAAAAAI/AAAAAAAAAYM/9ZOLdlIVSqg/s640-il/photo.jpg",
+        "url": "https://twitter.com/agiledaysist"
+    }
+}

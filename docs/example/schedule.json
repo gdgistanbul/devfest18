@@ -1,0 +1,291 @@
+{
+    "2018-11-04": {
+        "timeslots": [
+            {
+                "endTime": "10:00",
+                "startTime": "09:00",
+                "sessions": [
+                    {
+                        "items": [
+                            1111
+                        ]
+                    }
+                ]
+            },
+            {
+                "endTime": "10:15",
+                "startTime": "10:00",
+                "sessions": [
+                    {
+                        "items": [
+                            1111
+                        ]
+                    }
+                ]
+            },
+            {
+                "endTime": "11:00",
+                "startTime": "10:15",
+                "sessions": [
+                    {
+                        "items": [
+                            1111
+                        ]
+                    }
+                ]
+            },
+            {
+                "endTime": "11:40",
+                "startTime": "11:00",
+                "sessions": [
+                    {
+                        "items": [
+                            1111
+                        ]
+                    },
+                    {
+                        "items": [
+                            1111
+                        ]
+                    },
+                    {
+                        "items": [
+                            1111
+                        ]
+                    },
+                    {
+                        "items": [
+                            1111
+                        ]
+                    },
+                    {
+                        "items": [
+                            1111
+                        ],
+                        "extend": 2
+                    }
+                ]
+            },
+            {
+                "sessions": [
+                    {
+                        "items": [
+                            1111
+                        ]
+                    },
+                    {
+                        "items": [
+                            1111
+                        ]
+                    },
+                    {
+                        "items": [
+                            1111
+                        ]
+                    },
+                    {
+                        "items": [
+                            1111
+                        ]
+                    }
+                ],
+                "endTime": "12:30",
+                "startTime": "11:50"
+            },
+            {
+                "endTime": "14:00",
+                "startTime": "12:30",
+                "sessions": [
+                    {
+                        "items": [
+                            1111
+                        ]
+                    }
+                ]
+            },
+            {
+                "startTime": "14:00",
+                "sessions": [
+                    {
+                        "items": [
+                            1111
+                        ]
+                    },
+                    {
+                        "items": [
+                            1111
+                        ]
+                    },
+                    {
+                        "items": [
+                            1111
+                        ]
+                    },
+                    {
+                        "items": [
+                            1111
+                        ]
+                    },
+                    {
+                        "items": [
+                            1111
+                        ],
+                        "extend": 2
+                    }
+                ],
+                "endTime": "14:40"
+            },
+            {
+                "endTime": "15:30",
+                "startTime": "14:50",
+                "sessions": [
+                    {
+                        "items": [
+                            1111
+                        ]
+                    },
+                    {
+                        "items": [
+                            1111
+                        ]
+                    },
+                    {
+                        "items": [
+                            1111
+                        ]
+                    },
+                    {
+                        "items": [
+                            1111
+                        ]
+                    }
+                ]
+            },
+            {
+                "sessions": [
+                    {
+                        "items": [
+                            1111
+                        ]
+                    }
+                ],
+                "endTime": "16:00",
+                "startTime": "15:30"
+            },
+            {
+                "endTime": "16:40",
+                "startTime": "16:00",
+                "sessions": [
+                    {
+                        "items": [
+                            1111
+                        ]
+                    },
+                    {
+                        "items": [
+                            1111
+                        ]
+                    },
+                    {
+                        "items": [
+                            1111
+                        ]
+                    },
+                    {
+                        "items": [
+                            1111
+                        ]
+                    },
+                    {
+                        "items": [
+                            1111
+                        ],
+                        "extend": 3
+                    }
+                ]
+            },
+            {
+                "sessions": [
+                    {
+                        "items": [
+                            1111
+                        ]
+                    },
+                    {
+                        "items": [
+                            1111
+                        ]
+                    },
+                    {
+                        "items": [
+                            1111
+                        ]
+                    },
+                    {
+                        "items": [
+                            1111
+                        ]
+                    }
+                ],
+                "endTime": "17:30",
+                "startTime": "16:50"
+            },
+            {
+                "startTime": "17:40",
+                "sessions": [
+                    {
+                        "items": [
+                            1111
+                        ]
+                    },
+                    {
+                        "items": [
+                            1111
+                        ]
+                    },
+                    {
+                        "items": [
+                            1111
+                        ]
+                    },
+                    {
+                        "items": [
+                            1111
+                        ]
+                    }
+                ],
+                "endTime": "18:20"
+            },
+            {
+                "endTime": "22:30",
+                "startTime": "18:30",
+                "sessions": [
+                    {
+                        "items": [
+                            1111
+                        ]
+                    }
+                ]
+            }
+        ],
+        "date": "2018-11-04",
+        "tracks": [
+            {
+                "title": "Bosphorus"
+            },
+            {
+                "title": "Maiden's Tower"
+            },
+            {
+                "title": "Rumelia"
+            },
+            {
+                "title": "Cibali"
+            },
+            {
+                "title": "Eminönu/Workshop Area"
+            }
+        ],
+        "dateReadable": "November 4"
+    }
+}

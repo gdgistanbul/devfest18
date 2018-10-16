@@ -67,6 +67,13 @@
     "title" : "Eğlence Sponsoru"
   },{
     "logos" : [ {
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/indir-logo-728x375.png?alt=media&token=997a5c3a-a09d-4b32-9b41-806c01d02fb8",
+      "name" : "Indir.com",
+      "url" : "http://indir.com"
+    } ],
+    "title" : "Press Sponsor"
+  },{
+    "logos" : [ {
       "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/sendloop-logo-3.png?alt=media&token=b0a7f48b-d456-488d-9c44-6b52778d1eef",
       "name" : "Sendloop",
       "url" : "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/sendloop-logo-3.png?alt=media&token=b0a7f48b-d456-488d-9c44-6b52778d1eef"
