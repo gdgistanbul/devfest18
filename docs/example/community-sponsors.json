@@ -40,5 +40,15 @@
         "name": "Agile Days",
         "logoUrl": "https://lh3.googleusercontent.com/-P8XFYRIB16M/AAAAAAAAAAI/AAAAAAAAAYM/9ZOLdlIVSqg/s640-il/photo.jpg",
         "url": "https://twitter.com/agiledaysist"
+    },
+    "008": {
+        "name": "DevOpsDays Istanbul",
+        "logoUrl": "https://pbs.twimg.com/profile_images/725593134990680065/t-cb03XH_400x400.jpg",
+        "url": "https://twitter.com/devopsdaysist"
+    },
+    "009": {
+        "name": "Tasarım Mutfağı",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/30GJx9tE.png?alt=media&token=db222fa7-b2b2-4632-8c46-4cbb544ef442",
+        "url": "https://twitter.com/tasarimmutfagi"
     }
 }
