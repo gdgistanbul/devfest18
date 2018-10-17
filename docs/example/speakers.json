@@ -277,28 +277,6 @@
         ],
         "title": "Software Developer"
     },
-    "MandyChan": {
-        "order": 2,
-        "featured": true,
-        "company": "Google",
-        "companyLogoUrl": "https://devfest.istanbul/images/logos/google.svg",
-        "country": "San Francisco, California",
-        "socials": [
-            {
-                "name": "Twitter",
-                "icon": "twitter",
-                "link": "https://twitter.com/mandychannyc?lang=en"
-            }
-        ],
-        "bio": "Mandy Cahn is the Developer Community Manager on the Actions On Google team, where she is responsible for creating practical content for the developer community. At I/O 2018, Mandy and the team published two Codelabs to guide developers on how to build Actions. Since then, the Codelabs have trained thousands of new developers from around the world. She is a frequent speaker at different developer conferences, including the Grace Hopper Conference in 2017 and 2018. She was recently invited as a guest on the Google Cloud Platform Podcast. You can hear more about her recent activities on http://bit.ly/gcp-mandy. Prior to Google, she made many early contributions to the voice community. One of her most frequently downloaded open source projects is called SSML Builder, which creates well-formed Speech Synthesis Markup Language without worrying about string concatenation. When she is not pondering how to improve the developer experience, you can find her programming, hiking in the mountains, or learning new magic tricks. You can learn more about Mandy by following her on Twitter (@MandyChanNYC)!",
-        "shortBio": "Mandy Chan is the Developer Community Manager on the Actions On Google team, where she is responsible for creating practical content for the developer community",
-        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/virtual-p-46482.appspot.com/o/Mandy%20Chan.png?alt=media&token=622fbf98-eb81-4d46-a129-23f5acc6773f",
-        "name": "Mandy Chan",
-        "tags": [
-            "Assistant"
-        ],
-        "title": "Developer Community Manager"
-    },
     "Mark Stephens": {
         "order": 10,
         "featured": true,
