@@ -47,11 +47,25 @@
         "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/ZeplinVersions_horizontal.png?alt=media&token=a5e1ae34-823c-493d-8cf5-f0aa06f8a159",
         "name" : "Zeplin",
         "url" : "https://zeplin.io/"
+      },
+      {
+        "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/ZeplinVersions_horizontal.png?alt=media&token=a5e1ae34-823c-493d-8cf5-f0aa06f8a159",
+        "name" : "Zeplin",
+        "url" : "https://zeplin.io/"
       }
     ],
     "title" : "Gold Sponsor"
   },
   {
+    "logos":[
+      {
+        "logoUrl" : "",
+        "name" : "YapıKredi",
+        "url" : "https://yapikredi.io/"
+      }
+    ],
+    "title" : "Gold Sponsor"
+  },{
     "logos" : [ {
       "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/C%CC%A7al%C4%B1s%CC%A7ma%20Yu%CC%88zeyi%201.jpg?alt=media&token=bf359514-09f9-4428-a3d1-9dc948a330f6",
       "name" : "SliConf",

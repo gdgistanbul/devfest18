@@ -1,0 +1,109 @@
+{
+    "000": {
+        "url": "http://wtmistanbul.com",
+        "name": "WTM Istanbul",
+        "logoUrl": "http://2017.wtmistanbul.com/img/organizers/wtm_logo.png"
+    },
+    "001": {
+        "name": "GDG Eskişehir",
+        "logoUrl": "../images/logos/gdgeskisehir.png",
+        "url": "https://twitter.com/GdgEskisehir"
+    },
+    "002": {
+        "name": "GDG Tekirdağ",
+        "logoUrl": "../images/logos/gdgtekirdag.jpg",
+        "url": "https://twitter.com/GdgTekirdag"
+    },
+    "003": {
+        "name": "GDG Edirne",
+        "logoUrl": "../images/logos/GDG-Edirne-Logo.png",
+        "url": "https://twitter.com/GDGEdirne"
+    },
+    "004": {
+        "width": 145,
+        "url": "https://twitter.com/GDGKocaeli",
+        "height": 80,
+        "name": "GDG Kocaeli",
+        "logoUrl": "../images/logos/gdgKocaeliLogo.png"
+    },
+    "005": {
+        "logoUrl": "../images/logos/gdgKutahyaLogo.png",
+        "url": "https://twitter.com/GDGKutahya",
+        "name": "GDG Kütahya"
+    },
+    "006": {
+        "name": "GDG Düzce",
+        "logoUrl": "../images/logos/gdgDuzceLogo.JPG",
+        "url": "https://twitter.com/GDGDuzce"
+    },
+    "007": {
+        "name": "Agile Days",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/beta-devfest17.appspot.com/o/agile.png?alt=media&token=4f6d03a3-e8e9-4d70-b64b-b4aed2d2f06c",
+        "url": "https://twitter.com/agiledaysist"
+    },
+    "008": {
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/beta-devfest17.appspot.com/o/18656778.png?alt=media&token=a8d38006-543a-4e96-89cf-071c069cee2a",
+        "url": "https://twitter.com/anddevist",
+        "name": "Android İstanbul"
+    },
+    "0081": {
+        "url": "https://twitter.com/tasarimmutfagi",
+        "name": "Tasarım Mutfağı",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/30GJx9tE.png?alt=media&token=db222fa7-b2b2-4632-8c46-4cbb544ef442"
+    },
+    "009": {
+        "url": "https://twitter.com/turkishwin",
+        "name": "Turkish Win",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest18-tr.appspot.com/o/Community%2ForWG2Aqb_400x400.jpg?alt=media&token=5e0a4322-924e-4105-8ab0-2a9f7461be9d"
+    },
+    "010": {
+        "url": "https://twitter.com/kodluyoruz",
+        "name": "Kodluyoruz",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/beta-devfest17.appspot.com/o/kodluyoruz.jpg?alt=media&token=58f739a9-0153-4ea3-a145-5cd9f754bf20"
+    },
+    "011": {
+        "url": "https://twitter.com/recodedofficial",
+        "name": "Re:Coded",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest18-tr.appspot.com/o/Community%2Frecoded.jpg?alt=media&token=5e79fe2e-ca28-409c-b308-5dc1d02b5912"
+    },
+    "012": {
+        "name": "Istanbul Php",
+        "logoUrl": "https://pbs.twimg.com/profile_images/982360783802814464/4YHV5tb2_400x400.jpg",
+        "url": "https://twitter.com/istanbulphp"
+    },
+    "013": {
+        "name": "Kadın Bilişimci",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest18-tr.appspot.com/o/Community%2Fkadinbilisimcicom.png?alt=media&token=56aa1c83-7df8-4a57-8e52-4bf04bd858f8",
+        "url": "https://twitter.com/kadinbilisimci"
+    },
+    "014": {
+        "name": "Devnot",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest18-tr.appspot.com/o/Community%2Fdevnot-logo-big-black.png?alt=media&token=6b38629b-3850-4b49-a253-a962aae5bd7c",
+        "url": "https://twitter.com/devnot_"
+    },
+    "015": {
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest18-tr.appspot.com/o/Community%2Fr-ladies.jpg?alt=media&token=8d3ffd12-f77f-4a62-846b-245ea19ecde6",
+        "url": "https://twitter.com/RLadiesIstanbul",
+        "name": "R-Ladies Istanbul"
+    },
+    "016": {
+        "name": "Junior Talks Podcast",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest18-tr.appspot.com/o/Community%2Fjrtlks.jpg?alt=media&token=78e8c0b2-0e9a-41f5-871e-22662cb2d52a",
+        "url": "https://twitter.com/JuniorTalks"
+    },
+    "017": {
+        "name": "NSIstanbul",
+        "logoUrl": "https://pbs.twimg.com/profile_images/864909150005886976/mZCjMia6_400x400.jpg",
+        "url": "https://twitter.com/NS_Istanbul"
+    },
+    "018": {
+        "name": "Istanbul Flow",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/beta-devfest17.appspot.com/o/istanbulflow-logo.png?alt=media&token=8b36302d-3b43-4915-92b2-7bcf86fa1100",
+        "url": "https://twitter.com/istanbulflow"
+    },
+    "019": {
+        "name": "Serverless Turkey",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/beta-devfest17.appspot.com/o/serverlessturkey.png?alt=media&token=d94bf278-18b1-4943-91d8-330142f0f3a4",
+        "url": "https://twitter.com/serverlesstr"
+    }
+}

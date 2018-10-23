@@ -1,0 +1,450 @@
+{
+    "101": {
+        "complexity": "Beginner",
+        "tags": [
+            "Machine Learning & AI"
+        ],
+        "speakers": [
+            "KevinNelson"
+        ],
+        "title": "A crash course on Google Cloud AutoML and machine learning APIs",
+        "language": "English",
+        "description": "Thanks to machine learning and AI, applications are now being created that can see, hear, and understand the world around them. Learn how you can easily infuse AI into your business today. In addition to a guided walkthrough of easy-to-use machine learning APIs from Google Cloud: Cloud Vision, Cloud Video Intelligence, Cloud Speech, Cloud Natural Language, and Cloud Translation, we'll demonstrate how Google Cloud AutoML enables developers with limited machine learning expertise to train high quality models by leveraging Google’s state of the art transfer learning, and Neural Architecture Search technology."
+    },
+    "102": {
+        "complexity": "Beginner",
+        "tags": [
+            "Generic Software Engineering"
+        ],
+        "speakers": [
+            "SaidTahsinDane"
+        ],
+        "title": "Effective Code Review",
+        "language": "English",
+        "description": "Code Reviews are essential in every software team on any size. It allows teams to share knowledge, onboard people to the code base and most importantly keep the quality coherent. In this talk, after briefly defining code review, we will talk about how to make code reviews effective. The talk will consist of best practices from the eyes of the code author and code reviewer."
+    },
+    "103": {
+        "tags": [
+            "Cloud"
+        ],
+        "speakers": [
+            "MeteAtamel"
+        ],
+        "title": "Google Assistant powered by Containers, Machine Learning and .NET on Google Cloud",
+        "language": "English",
+        "description": "What does it take to connect Google Assistant to the cloud? Surprisingly, not much! In this talk, we will create a Dialogflow app to get Google Assistant to talk to a container managed by Kubernetes/App Engine. In the container, we’ll use some of the Machine Learning APIs and BigQuery and see how they can elevate our Google Assistant app to the next level. We will also integrate with Stackdriver and see how you can get more insights about your app with HTTP tracing and live debugging features of Stackdriver.",
+        "complexity": "Beginner"
+    },
+    "104": {
+        "tags": [
+            "Online payments"
+        ],
+        "speakers": [
+            "EmilBayazitov",
+            "Lucian"
+        ],
+        "title": "Google Pay and The Future of Online Payments",
+        "language": "English",
+        "description": "Online payments have changed and they keep changing, pushing conversions higher and making businesses grow. See how Google Pay can help your company.",
+        "complexity": "Beginner"
+    },
+    "105": {
+        "tags": [
+            "Firebase"
+        ],
+        "speakers": [
+            "LauraMorinigo"
+        ],
+        "title": "How I become a mobile developer with Firebase and Flutter",
+        "language": "English",
+        "description": "As a software developer, you would be probably interested in building mobile apps: not sure if Android or IOS? Why not both with Flutter! Flutter is Google’s mobile app SDK for creating high-quality native interfaces for iOS and Android in record time, is free and opensource. During this talk, we are going to explore this framework and how you can combine it with Firebase to boost your app even more.",
+        "complexity": "Beginner"
+    },
+    "106": {
+        "tags": [
+            "Mobile Technologies"
+        ],
+        "speakers": [
+            "HasanHosgel"
+        ],
+        "title": "Living on a green rocket field",
+        "language": "English",
+        "description": "At Google IO 2018 the Android team announced Jetpack for Android, which is an opinionated set of libraries and architecture, which is a recommendation for Android developers. We at LAB1886, the incubator for the Daimler AG (Mercedes Benz), thought to give it a try with our latest project called RaceScout from AMG. We have the luxury to work always on green fields for projects. So, we wanted to share our experience with Jetpack and also give some recommendations for all the library & SDK developers.",
+        "complexity": "Beginner"
+    },
+    "107": {
+        "tags": [
+            "Design"
+        ],
+        "speakers": [
+            "KunalPatel"
+        ],
+        "title": "Customizing with Material Theming",
+        "language": "English",
+        "description": "At Google I/O 2018, Material Design announced new capabilities to customize app components and styles through theming. This talk will provide an overview of Material Theming, updates to the design system, and new tools to support the design to development workflow.",
+        "complexity": "Beginner"
+    },
+    "108": {
+        "tags": [
+            "Web Technologies"
+        ],
+        "speakers": [
+            "AhmetCanGüven"
+        ],
+        "title": "Micro Frontends Architecture",
+        "language": "Turkish",
+        "description": "I will be talking about what micro-frontends is and how to implement it using NodeJs with examples.",
+        "complexity": "Beginner"
+    },
+    "109": {
+        "tags": [
+            "Google Technologies"
+        ],
+        "speakers": [
+            "BarisYesugey"
+        ],
+        "title": "What's new at Google platform",
+        "language": "TR",
+        "description": "Latest platform products such as Flutter, Nougat, AoG, Cloud",
+        "complexity": "Beginner"
+    },
+    "110": {
+        "tags": [
+            "Mobile Technologies"
+        ],
+        "speakers": [
+            "AliCanBatur"
+        ],
+        "title": "TBA - will be about iOS - Swift",
+        "language": "Turkish",
+        "description": "TBA - will be about iOS - Swift",
+        "complexity": "Beginner"
+    },
+    "111": {
+        "tags": [
+            "Mobile Technologies"
+        ],
+        "speakers": [
+            "DylanDrost"
+        ],
+        "title": "Episode IV: Return of the Flutter",
+        "language": "English",
+        "description": "Is Flutter the next big thing in developing multi platform apps with a single codebase. Google seems to think so. So let's try this out by making a Star wars movies app. And see if we can make that run on both Android and IOS by using the Flutter Framework.",
+        "complexity": "Beginner"
+    },
+    "112": {
+        "language": "Turkish",
+        "description": "This workshop is for the developers who have a Flutter app and want to add Firebase to it, or already using Firebase and want to learn how to build a native mobile app using Flutter.",
+        "complexity": "Beginner",
+        "tags": [
+            "Flutter",
+            "Firebase"
+        ],
+        "speakers": [
+            "ErdemDemir",
+            "EnginDeveci"
+        ],
+        "title": "Getting started with Flutter and Firebase"
+    },
+    "113": {
+        "tags": [
+            "Web Technologies"
+        ],
+        "speakers": [
+            "MarkStephens",
+            "BethanPalmer"
+        ],
+        "title": "Develop and write better software using Apache NetBeans IDE",
+        "language": "English",
+        "description": "NetBeans IDE is the leading open source solution for writing high quality software. Available for free and Open source, it provides a complete solution to create, test and ship software in multiple languages including Java, JavaScipt, C and PHP. It includes numerous features to spot errors and write good quality code. It is highly configurable and also forms an excellent learning platform for beginners while providing an ideal solutions for professionals. And if you do not like the way it works or miss a feature, you can even hack the IDE itself. If you are learning to code or looking for a more productive way to write your code, come along to our talk and find out what NetBeans has to offer.",
+        "complexity": "Beginner"
+    },
+    "114": {
+        "tags": [
+            "Machine Learning & AI"
+        ],
+        "speakers": [
+            "BaharKenarogluUzan"
+        ],
+        "title": "Introduction to Machine Learning on Google Cloud Platform",
+        "language": "Turkish",
+        "description": "There are revolutionary changes happening in hardware and software that are democratizing machine learning (ML). Whether you're new to ML or already an expert, Google Cloud Platform has a variety of tools for users. ",
+        "complexity": "Beginner"
+    },
+    "115": {
+        "description": "RxJava bir çok kullanımı olan güçlü bir araç. Asenkron işlem ve fonksiyonel programlamanın bir çok öğesini kullanıma sunuyor. Fakat Kotlin fonksiyonel programlama özelliklerini şimdiden, Asenkron işlemleri kolaylaştıran ve ucuzlaştıran Coroutine'leri 1.3 versiyonu ile sağlıyor. RxJava ve Kotlinin bu özelliklerinin karşılaştıracağım.",
+        "complexity": "Beginner",
+        "tags": [
+            "Mobile Technologies"
+        ],
+        "speakers": [
+            "HadiTok"
+        ],
+        "title": "RxJava ve Kotlin Coroutines, Kullanim senaryolari",
+        "language": "English"
+    },
+    "116": {
+        "speakers": [
+            "RimKHAZHIN",
+            "TufanALIN"
+        ],
+        "title": "Applied Machine Learning at Scale",
+        "language": "TR",
+        "description": "In this session we will describe details of Machine Learning technologies used in Turkey's #1 mobile entertainment App and the Research&Development process that lead to its success. Highly scalable cloud-based Deep Learning application automates processing of millions of images per day to prevent fraud and malicious user behavior, as well as reduce network and total operation costs. ",
+        "complexity": "Beginner",
+        "tags": [
+            "Machine Learning & AI"
+        ]
+    },
+    "117": {
+        "tags": [
+            "Web Technologies"
+        ],
+        "speakers": [
+            "ÇağatayÇivici"
+        ],
+        "title": "HOW TO MESS UP YOUR ANGULAR UI COMPONENTS",
+        "language": "TR",
+        "description": "This talk covers how to create rich UI components with Angular following the best practices and avoiding the pitfalls. For each practice, a real-life example from PrimeNG will be used as a case-study such as change detection techniques, templating, rxjs, state management, integrating 3rd party libraries, styling, querying and effective dom handling.",
+        "complexity": "Beginner"
+    },
+    "118": {
+        "tags": [
+            "Robotics"
+        ],
+        "speakers": [
+            "SelinAlaraOrnek"
+        ],
+        "title": "My Journey of Building Robots ",
+        "language": "TR",
+        "description": "My journey first started when I was 8 years old and we lost our family dog, Korsan. I was really upset and missed him so much I decided I wanted to bring one of my soft toys to life. I asked my Dad's mechanical engineer friend how to make it. Since then I am working on building robots of purpose. I  am learning to code in Python, Javascript, and Ruby. Upto today I have completed 3 robotic projects in all of them I used Arduino and wrote codes in Arduino IDE and two of the projects include mobile application for Android which is made in App Inventor 2. Now I am working on upgrading my award winning Robot Project iC4U. In this version I am using Raspberry Pi and Google's AIY - Project Bonnets (voice and vision) which will add direct voice command and image processing capabilities to my robot.   ",
+        "complexity": "Beginner"
+    },
+    "119": {
+        "tags": [
+            "Mobile Technologies"
+        ],
+        "speakers": [
+            "TufanKüpeli"
+        ],
+        "title": "Mobil uygulamalrda AR",
+        "language": "Turkish",
+        "description": "Mobil uygulamalarda AR teknolojilerinin kullanım yerleri ve Android Kütüphanelerinin kullanımı ",
+        "complexity": "Beginner"
+    },
+    "120": {
+        "language": "TR",
+        "description": "Google is thinking differently about what it means to be Serverless. In this session, you'll learn what serverless means to us as we deep dive into Google Cloud Platform Serverless services.",
+        "complexity": "Beginner",
+        "tags": [
+            "Cloud"
+        ],
+        "speakers": [
+            "PinarUgurluKirazci"
+        ],
+        "title": "Building serverless applications with Google Cloud"
+    },
+    "121": {
+        "tags": [
+            "Cloud"
+        ],
+        "speakers": [
+            "Shaista"
+        ],
+        "title": "Big Data Solutions by GCP",
+        "language": "English",
+        "description": "Capture real-time vehicle sensor data for analytics and visualization : Will be pushing test data into pub/sub, streaming pipeline using data flow and push data into BQ. Average speed and current speed transforms will be done in Dataflow. Finally will visualize and create reports in Data studio. If time permits, I will also show how to predict vehicle speed using Bigquery ML.",
+        "complexity": "Beginner"
+    },
+    "122": {
+        "language": "English, Turkish",
+        "description": "In this session we will describe details of Machine Learning technologies used in Turkey's #1 mobile entertainment App and the Research&Development process that lead to success. Highly scalable cloud-based Deep Learning application automates processing of millions of images per day to prevent fraud and malicious user behavior, as well as reduce network and total operation costs. We will also give insight on user behavior prediction techniques using Machine Learning algorithms.",
+        "tags": [
+            "Machine Learning & AI"
+        ],
+        "complexity": "Beginner",
+        "title": "Applied Machine Learning at Scale"
+    },
+    "123": {
+        "tags": [
+            "Web Technologies"
+        ],
+        "speakers": [
+            "ŞükrüHasdemir"
+        ],
+        "title": "Peer-to-Peer Video Distribution with WebRTC",
+        "language": "TR",
+        "description": "In this talk, we will go into detail of our large-scale P2P video content distribution system using WebRTC. We will briefly introduce WebRTC, then delve into some of the challenges we have encountered and the technical solutions we developed. These include: Low upload rates, mobile uploads having quotas, live streams requiring low latency, matching optimal peers, protecting users from fake data, and scaling to millions of concurrent users.",
+        "complexity": "Beginner"
+    },
+    "124": {
+        "tags": [
+            "Android"
+        ],
+        "speakers": [
+            "valentyn_shybanov"
+        ],
+        "title": "Continues Integration in Android",
+        "videoId": "MmGDQkgknfY",
+        "language": "English",
+        "description": "You are tired of building every patch for your QA ? Still deploying to google play manually ? You still think that build server is something that you don't need ? Than I will try to show you how you can make life of your team easier with CI.",
+        "complexity": "Intermediate"
+    },
+    "125": {
+        "tags": [
+            "Cloud"
+        ],
+        "speakers": [
+            "sergiy_mokienko"
+        ],
+        "title": "Kubernetes in a real world",
+        "language": "English",
+        "description": "TBD",
+        "complexity": "Intermediate"
+    },
+    "126": {
+        "tags": [
+            "Android"
+        ],
+        "speakers": [
+            "ihor_dvoretskyi"
+        ],
+        "title": "Android hacking for dummies: ‘if’ operator demolytion",
+        "videoId": "We04nyIIsA0",
+        "language": "English",
+        "description": "Imagine the world where you can get any application, look into its code (even if it is not open sourced) and modify any conditional operator in any way you like. Welcome, you are in the Android applications world! Let's discover how anyone can decompile your app and, for example, hack your 'if' operators. For the beginning, we will play a role of a script kiddie and try to hack some simple app. After this, we will pretend security-conscious Android developers and try to think how we can protect ourselves.",
+        "presentation": "https://speakerdeck.com/gdglviv/michael-pustovit-android-hacking-for-dummies-if-operator-demolytion",
+        "complexity": "Intermediate"
+    },
+    "127": {
+        "complexity": "Intermediate",
+        "tags": [
+            "Android"
+        ],
+        "speakers": [
+            "michael_pustovit"
+        ],
+        "title": "ExoPlayer: Media playback without pain (almost...)",
+        "language": "Ukrainian",
+        "description": "If you have any experience with Android Media Player, you definitely know how hard it is to prepare it and do not lose your mind. ExoPlayer - is an alternative, which can help you deal with media with much less pain. So lets discuss if it really a \"silver bullet\" or yet another State Machine hell.",
+        "presentation": "https://speakerdeck.com/gdglviv/anton-minashkin-exoplayer-media-playback-without-pain-almost-dot-dot-dot"
+    },
+    "128": {
+        "description": "Google announced Android Wear 2.0 become available this Fall. This major update brings some revolutionary changes in platform, that should change our approaches in developing wearable apps, including freedom of BLE tethering, system support for complications and activity recognition by GoogleFit, developed mainly for Android Wear 2.0. We will talk deeper about these new features and look at some ways to implement them in the code.",
+        "complexity": "Beginner",
+        "tags": [
+            "Android"
+        ],
+        "speakers": [
+            "anton__minashkin"
+        ],
+        "title": "Android Wear 2.0: Great Changes Upcoming this Fall",
+        "language": "English"
+    },
+    "129": {
+        "tags": [
+            "Android"
+        ],
+        "speakers": [
+            "constantine_mars"
+        ],
+        "title": "Accessibility on Android",
+        "language": "English",
+        "description": "Accessibility is a very important step to make sure that your app reaches everyone in an easy and fun way to use. \nGood accessibility support means much more than just making sure the app supports screen readers, different fonts sizes and good contrast ratios. It is a learning process, and one in which we ourselves still have much to learn and explore. ",
+        "presentation": "https://speakerdeck.com/gdglviv/resul-caner-yildirim-accessibility-on-android",
+        "complexity": "Intermediate"
+    },
+    "130": {
+        "tags": [
+            "Android"
+        ],
+        "speakers": [
+            "constantine_mars"
+        ],
+        "title": "Designing an Android Wear Application",
+        "language": "English",
+        "description": "Wearable devices are one of the most popular things nowadays. Specially, after the Apple Watch, we finally get the whole picture of the entire list of products and their features. Now, we can talk about how we can design a user experience for this type of devices.\nEvery platform has it's own design principles and approaches. But, in the core, they all need to follow same core rules. So, how we combine this core requirements with Google's Material Design and use them on an Android Wear device? Let's learn!",
+        "complexity": "Intermediate"
+    },
+    "131": {
+        "tags": [
+            "Android"
+        ],
+        "speakers": [
+            "resul_caner__yildirim"
+        ],
+        "title": "Deal with it: Android DataBinding explained",
+        "language": "English",
+        "description": "In this talk, I will reveal you all the deepest secrets of using MVVM architecture in Android. \nWe will discuss on how to organise your application, views, models, how to retrieve data from the model requested from the view via data binding. \nLightweight Activities and Fragments, is it even possible? \n\nYes, and I will show you how to achieve this with MVVM and DataBinding!",
+        "presentation": "https://speakerdeck.com/gdglviv/roman-herasymenko-deal-with-it-android-databinding-explained",
+        "complexity": "Intermediate"
+    },
+    "132": {
+        "description": "Get your badge, coffee, enjoy talking with tech edicts around",
+        "icon": "registration",
+        "title": "Registration & morning Coffee",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe"
+    },
+    "133": {
+        "title": "Lunch",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225",
+        "description": "Foooooooood!",
+        "icon": "lunch"
+    },
+    "134": {
+        "description": "Coffeeeeeee!",
+        "icon": "coffee-break",
+        "title": "Coffee break",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fcoffee-break.jpg?alt=media&token=7c2c929b-cb94-4be8-a05a-b3f678136cb7"
+    },
+    "135": {
+        "title": "Morning coffee",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fmorning.jpg?alt=media&token=d0da3d64-fc63-48c6-9d41-1460451dca64",
+        "description": "Coffeeeeeee!",
+        "icon": "coffee-break"
+    },
+    "136": {
+        "description": "Official start of the conference. Greetings from the organizers, sponsors and partners.",
+        "icon": "opening",
+        "title": "GDG DevFest Ukraine 2016 Opening",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
+        "language": "English"
+    },
+    "137": {
+        "icon": "party",
+        "title": "Afterparty & Networking",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fparty.jpg?alt=media&token=8e413f01-373a-40bf-bb87-1dcf1d8e6af1",
+        "description": "Afterparty is a great time to have some fun and meet new people"
+    },
+    "138": {
+        "title": "Conference closing and contest winners announcements",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
+        "description": "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session."
+    },
+    "139": {
+        "title": "Keynote",
+        "language": "English",
+        "description": ""
+    },
+    "140": {
+        "title": "TBD",
+        "language": "English",
+        "description": "TBD"
+    },
+    "1111": {
+        "title": "Coming Soon",
+        "language": "TR",
+        "description": "ComingSoon",
+        "complexity": "Intermediate",
+        "tags": [
+            "Cloud",
+            "Android",
+            "Firebase",
+            "Machine Learning",
+            "Web"
+        ],
+        "speakers": [
+            "GDGIstanbul"
+        ]
+    }
+}
