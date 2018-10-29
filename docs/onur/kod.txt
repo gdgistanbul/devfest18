@@ -1,0 +1,8 @@
+npm run firestore:copy  ./docs/onur/schedule.json schedule
+npm run firestore:copy  ./docs/onur/sessions.json sessions
+npm run firestore:copy  ./docs/onur/speakers.json speakers
+
+npm run firestore:copy schedule ./docs/onur/schedule.json
+npm run firestore:copy sessions ./docs/onur/sessions.json
+npm run firestore:copy speakers ./docs/onur/speakers.json
+npm run firestore:copy partners/items/1 ./docs/onur/parners-gold.json

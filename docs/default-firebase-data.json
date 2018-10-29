@@ -2020,38 +2020,5 @@
       "tags" : [ "Cloud" ],
       "title" : "Developer"
     },
-    "GDGIstanbul": {
-      "bio" : "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
-      "company" : "GDG Istanbul",
-      "companyLogo" : "/images/logos/gdg_istanbul_logo.png",
-      "country" : "Turkey",
-      "featured" : false,
-      "id" : 830,
-      "name" : "GDG Istanbul",
-      "photoUrl" : "/images/logos/icon.png",
-      "shortBio" : "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/company/2943205/",
-        "name" : "Linkedin"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/GDGIstanbul",
-        "name" : "Twitter"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/GDGIstanbul/",
-        "name" : "Facebook"
-      }, {
-        "icon" : "github",
-        "link" : "https://github.com/gdgistanbul/",
-        "name" : "Github"
-      }, {
-        "icon" : "website",
-        "link" : "http://www.gdgistanbul.com/",
-        "name" : "Website"
-      } ],
-      "tags" : [ "Community" ]
-    }
-  }
+
 }

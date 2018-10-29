@@ -1,0 +1,47 @@
+{
+    "000": {
+        "name": "Indir.com",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/indir-logo-728x375.png?alt=media&token=997a5c3a-a09d-4b32-9b41-806c01d02fb8",
+        "url": "http://indir.com"
+    },
+    "001": {
+        "name": "Hurriyet.com",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/beta-devfest17.appspot.com/o/Hurriyet%20logo.png?alt=media&token=891e1ed0-b279-4637-ab60-567b40f92f13",
+        "url": "http://hurriyet.com"
+    },
+    "002": {
+        "name": "Milliyet.com",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/beta-devfest17.appspot.com/o/MilliyetGazete-Logo.png?alt=media&token=75030dd6-3b7c-49ec-82ca-06e1ea9ecff6",
+        "url": "http://milliyet.com"
+    },
+    "003": {
+        "name": "Teknoseyir.com",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/beta-devfest17.appspot.com/o/Monza-Renk.png?alt=media&token=c84a9d86-a85a-4fc7-a41d-aa41daee5001",
+        "url": "http://teknoseyir.com"
+    },
+    "004": {
+        "url": "http://webmasto.com",
+        "name": "webmasto.com",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/beta-devfest17.appspot.com/o/webmasto-logo-2050x546.png?alt=media&token=d9454a38-0aaf-458d-b9d0-e82384b8c7ce"
+    },
+    "005": {
+        "name": "webtekno.com",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/beta-devfest17.appspot.com/o/webtekno-logo.png?alt=media&token=0fa0868d-1432-4a77-a88f-648bedc23c6b",
+        "url": "http://webtekno.com"
+    },
+    "006": {
+        "name": "hdteknohaber.com",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-istanbul-devfest-2017.appspot.com/o/hdteknohaber-logo1-300x80.png?alt=media&token=69bb3f3f-dff8-48e6-afe0-ce6ebd38eef3",
+        "url": "http://www.hdteknohaber.com/gdg-devfest-istanbul-2018e-sayili-gunler-kaldi/"
+    },
+    "007": {
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/beta-devfest17.appspot.com/o/Logo%202560x606px.jpg?alt=media&token=10e57555-16ee-45e2-a0a8-b1dcbef24fec",
+        "url": "https://www.technopat.net/",
+        "name": "Technopat.net"
+    },
+    "008": {
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/beta-devfest17.appspot.com/o/tamindir_logo_cok_buyuk.png?alt=media&token=740d85ed-b595-4708-b99c-306cfd04fa98",
+        "url": "https://www.tamindir.com/",
+        "name": "tamindir.com"
+    }
+}

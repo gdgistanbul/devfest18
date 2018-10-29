@@ -1,0 +1,12 @@
+{
+    "001": {
+        "url": "https://www.accenture.com/tr-en/service-industry-x0",
+        "name": "Accenture Industry X.0",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/Acc_IndustryX0_Wordmark_BLK.png?alt=media&token=dfd6b0ce-88bb-4f53-8a12-e2e5d471244b"
+    },
+    "000": {
+        "url": "https://zeplin.io/",
+        "name": "Zeplin",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/ZeplinVersions_horizontal.png?alt=media&token=a5e1ae34-823c-493d-8cf5-f0aa06f8a159"
+    }
+}
