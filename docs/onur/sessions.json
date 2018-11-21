@@ -115,9 +115,9 @@
         "speakers": [
             "AliCanBatur"
         ],
-        "title": "TBA - will be about iOS - Swift",
+        "title": "Keep the client Dummy!",
         "language": "TR",
-        "description": "TBA - will be about iOS - Swift",
+        "description": "Mobil uygulama geliştirme süreçlerini hem daha modüler hale getirmek hem de müşterinizin taleplerini karşılama hızınızı artırmak mı istiyorsunuz? O zaman gelin tüm business katmanını mobilden arındırıp, ekranların bile backendden yönetilmesi hakkında konuşalım. Hem de native deneyimlerle",
         "complexity": "Beginner"
     },
     "111": {
@@ -164,7 +164,7 @@
             "Machine Learning & AI"
         ],
         "speakers": [
-            "BaharKenarogluUzan"
+            "CemalKayacan"
         ],
         "title": "Introduction to Machine Learning on Google Cloud Platform",
         "language": "TR",
@@ -203,7 +203,7 @@
         "speakers": [
             "ÇağatayÇivici"
         ],
-        "title": "HOW TO MESS UP YOUR ANGULAR UI COMPONENTS",
+        "title": "How To Mess Up Your Angular UI Components",
         "language": "TR",
         "description": "This talk covers how to create rich UI components with Angular following the best practices and avoiding the pitfalls. For each practice, a real-life example from PrimeNG will be used as a case-study such as change detection techniques, templating, rxjs, state management, integrating 3rd party libraries, styling, querying and effective dom handling.",
         "complexity": "Beginner"
@@ -487,7 +487,7 @@
     "145": {
         "title": "Swifty Performance",
         "language": "TR",
-        "complexity": "Ios",
+        "complexity": "Intermediate",
         "description": "- Bir programlama dilinin performansını neler etkiler? - Bir programalama dili neye göre diğerlerinden daha hızlı veya yavaş olabiliyor? - Programlama dilleri donanımı soyutlarken aşağıda neler oluyor? Swift programlama dili implementasyonu üzerinden, diğer dillerle karşılaştırarak yukarıdaki soruların yanıtlarını arayacağımız bir session olacak.",
         "tags": [
              "Mobile Technologies"
@@ -497,7 +497,7 @@
         ]
     },
     "146": {
-        "title": "Mobile Challenges Getir",
+        "title": "Mobile Challenges at Getir",
         "language": "TR",
         "complexity": "Begineer",
         "description": "Coming soon",
@@ -505,7 +505,7 @@
              "Mobile Technologies"
         ],
         "speakers": [
-            "UfukDag"
+            "DenizTav"
         ]
     },
     "147": {
@@ -530,6 +530,30 @@
         ],
         "speakers": [
             "ResulCanerYildirim"
+        ]
+    },
+    "149": {
+        "title": "Conquering Tensorflow with Dataset API",
+        "language": "TR",
+        "complexity": "Begineer",
+        "description": "Using Tensorflow’s Dataset API for better performance. Understanding how Tensorflow works for all levels of developers and ML professionals.",
+        "tags": [
+             "Machine Learning & AI"
+        ],
+        "speakers": [
+            "BugraOral"
+        ]
+    },
+    "150": {
+        "title": "Diyalog Tabanlı Finansal İşlemler (ChatBot)",
+        "language": "TR",
+        "complexity": "Begineer",
+        "description": "Yapi Kredi ChatBot ile finansal işlemler",
+        "tags": [
+             "ChatBot"
+        ],
+        "speakers": [
+            "EnesBurakDündar"
         ]
     },
     "1111": {
@@ -561,7 +585,8 @@
             "Web"
         ],
         "speakers": [
-            "GDGIstanbul"
+            "GDGIstanbul",
+            "OnderG","BarisYesugey"
         ]
     },
     "1113": {
@@ -581,7 +606,7 @@
         ]
     },
     "1114": {
-        "title": "Hadi Pub Story",
+        "title": "Hey Pub Story",
         "language": "TR",
         "description": "This is the best party that I've ever been to Look! Everything's spinning Never cheer before you know who's winning Let me introduce you to someone before the party is done This is the best party I've ever been to",
         "complexity": "Intermediate",

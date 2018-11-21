@@ -1,0 +1,22 @@
+{
+    "000": {
+        "name": "hiveCDN",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/hivecdn_logo_472x240.png?alt=media&token=38ca1413-59ab-4ffe-ae2e-d1a0a6c043fe",
+        "url": "https://www.hivecdn.com"
+    },
+    "001": {
+        "name": "Clapper",
+        "logoUrl": "https://www.clapper.agency/logo-app.png",
+        "url": "https://www.clapper.app"
+    },
+    "002": {
+        "name": "Neler Bedava?",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/8971137D-45DB-4C64-B60B-E344404D1721.png?alt=media&token=93837078-db99-4eb2-94d6-fc77fe575d8c",
+        "url": "https://www.nerdebedava.com"
+    },
+    "003": {
+        "name": "Artisan UI",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/artisan_logo.png?alt=media&token=e1254a13-aeb0-4cb0-8aa1-b5a3db5bed6e",
+        "url": "https://www.linkedin.com/company/artisanux"
+    }
+}

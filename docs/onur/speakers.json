@@ -32,7 +32,7 @@
         "featured": true,
         "shortBio": "Experienced iOS Developer with a demonstrated history of working in the internet industry.",
         "company": "sahibinden.com",
-        "companyLogoUrl":"http://www.kurumsalhaberler.com/images/kuruluslogo/509/arsiv/sahibinden_logo.jpg",
+        "companyLogoUrl": "http://www.kurumsalhaberler.com/images/kuruluslogo/509/arsiv/sahibinden_logo.jpg",
         "photoUrl": "https://avatars1.githubusercontent.com/u/1905698?s=460&v=4",
         "socials": [
             {
@@ -48,7 +48,6 @@
             "Google Technologies"
         ]
     },
-
     "BarisYesugey": {
         "shortBio": "Üniversite eğitimini İngiltere'de (Bilgisayar Bilimleri) tamamlayan Barış, Facebook ve Paypal'da satış ve çözüm mühendisi olarak geliştiricilerin platform teknolojilerini uygulama ve servislerine entegre etmesinde destek oldu",
         "photoUrl": "https://scontent.flux1-1.fna.fbcdn.net/v/t1.0-9/27751548_10215018720880004_4652419518390012460_n.jpg?_nc_cat=0&oh=2ee5b71e16e87ec41124ed09406e8c27&oe=5C6114C0",
@@ -784,8 +783,7 @@
         "company": "Google",
         "companyLogoUrl": "https://devfest.istanbul/images/logos/google.svg",
         "country": "Turkey",
-        "socials": [
-        ],
+        "socials": [],
         "bio": "Cloud Customer Engineer",
         "shortBio": "Cloud Customer Engineer",
         "name": "Muharrem Erdogdu",
@@ -803,7 +801,7 @@
         "featured": false,
         "shortBio": "Gokhan is a Software Engineer with experience in different areas of software developement like aerospace, simulation and finance.",
         "company": "Commencis",
-        "companyLogoUrl":"",
+        "companyLogoUrl": "",
         "photoUrl": "https://image.ibb.co/ktdpHn/IMG_0497.jpg",
         "socials": [
             {
@@ -824,24 +822,24 @@
             "Google Technologies"
         ]
     },
-    "UfukDag": {
-        "title": "Lead Cloud Architect And DevOps Organization",
+    "DenizTav": {
+        "title": "Mobile Team Lead",
         "order": 14,
         "featured": false,
-        "shortBio": "8 yıldır bulut sistemlerinin yönetimini yapmaktayım.",
+        "shortBio": "1988 doğumlu olan Deniz Tav, ODTÜ Bilgisayar Mühendisliğinden 2011 yılında mezun oldu.",
         "company": "Getir",
-        "companyLogoUrl":"https://cdn.yeniakit.com.tr/images/news/625/istanbullu-3-milyon-kez-getir-dedi-h1517293289-9f50ff.jpg",
-        "photoUrl": "",
+        "companyLogoUrl": "https://cdn.yeniakit.com.tr/images/news/625/istanbullu-3-milyon-kez-getir-dedi-h1517293289-9f50ff.jpg",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/DenizTav.png?alt=media&token=803ed9eb-820c-41f4-ba1d-936fcbacdbfa",
         "socials": [
             {
                 "icon": "linkedin",
-                "link": "www.linkedin.com/in/ufukdag",
+                "link": "www.linkedin.com/in/deniztav/",
                 "name": "Twitter"
             }
         ],
-        "name": "Ufuk Dag",
+        "name": "Deniz Tav",
         "country": "Turkey",
-        "bio": "8 yıldır bulut sistemlerinin yönetimini yapmaktayım. Çeşitli büyüklükte ekipleri yönettim. İçerisinde bulunduğum ekiplerde Agile Scrum framework'ü ile iterasyonu sağladım. Anomali tespiti, yüksek transaction sayısına sahip mimarinin ortaya çıkarılması ve optimizasyonu, mikro servis ve  serverless mimari tasarlanması ve taşınması işlemilerini yürüttüm. Insider ve Getir başta olmak üzere DevOps kültürünün ekibe yayılması için çeşitli eğitimlerde bulundum. Daha fazla bilgi isterseniz Linkedin hesabımı kontrol edebilirsiniz.",
+        "bio": "1988 doğumlu olan Deniz Tav, ODTÜ Bilgisayar Mühendisliğinden 2011 yılında mezun oldu. Öğrenciliği sırasında ODTÜ Teknokentte çalışarak yazılım dünyasına adım attı. Mezuniyetini takiben Türkiye’nin en büyük mobil yazılım şirketinde ulusal/uluslararası bankacılık ve eCommerce uygulamaları üzerine çalıştı. Mobil odaklı çalışmalarına devam eden Tav, 2014 Ekim’de İyi Sahne Bilgi Teknolojileri A.Ş.’de kurucu ortak olarak katıldı. iyisahne.com’un satışının ardından Getir Ekibine katılan Deniz Tav, Mobil Takım Lideri olarak çalışmaktadır.",
         "tags": [
             "Google Technologies"
         ]
@@ -852,7 +850,7 @@
         "featured": false,
         "shortBio": "Ugur Turan is a senior software architect in Accenture’s global Industry X.0 group.",
         "company": "Accenture Industry X.0",
-        "companyLogoUrl":"https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/Acc_IndustryX0_Wordmark_BLK.png?alt=media&token=dfd6b0ce-88bb-4f53-8a12-e2e5d471244b",
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/Acc_IndustryX0_Wordmark_BLK.png?alt=media&token=dfd6b0ce-88bb-4f53-8a12-e2e5d471244b",
         "photoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/ugur_turan.jpg?alt=media&token=3715e822-5bf1-44b9-be0a-1873ea77d4d9",
         "socials": [
             {
@@ -874,7 +872,7 @@
         "featured": true,
         "shortBio": "Caner is a UX designer who is also a technology geek.",
         "company": "Artisan UX",
-        "companyLogoUrl":"https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/artisan_logo.png?alt=media&token=e1254a13-aeb0-4cb0-8aa1-b5a3db5bed6e",
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/artisan_logo.png?alt=media&token=e1254a13-aeb0-4cb0-8aa1-b5a3db5bed6e",
         "photoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/32827288_10215048364756552_6656875219157778432_o.jpg?alt=media&token=6d3d2636-22d2-45db-b0d8-4b6cc3adecd1",
         "socials": [
             {
@@ -895,39 +893,137 @@
             "Design"
         ]
     },
-    "GDGIstanbul": {
-        "bio" : "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
-        "company" : "GDG Istanbul",
-        "companyLogo" : "/images/logos/gdg_istanbul_logo.png",
-        "country" : "Turkey",
-        "featured" : false,
-        "id" : 830,
-        "name" : "GDG Istanbul",
-        "photoUrl" : "/images/logos/icon.png",
-        "shortBio" : "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
-        "socials" : [ {
-          "icon" : "linkedin",
-          "link" : "https://www.linkedin.com/company/2943205/",
-          "name" : "Linkedin"
-        }, {
-          "icon" : "twitter",
-          "link" : "https://twitter.com/GDGIstanbul",
-          "name" : "Twitter"
-        }, {
-          "icon" : "facebook",
-          "link" : "https://www.facebook.com/GDGIstanbul/",
-          "name" : "Facebook"
-        }, {
-          "icon" : "github",
-          "link" : "https://github.com/gdgistanbul/",
-          "name" : "Github"
-        }, {
-          "icon" : "website",
-          "link" : "http://www.gdgistanbul.com/",
-          "name" : "Website"
-        } ],
-        "tags" : [ "Community" ]
-      }
+    "BugraOral": {
+        "title": "Software Engineer",
+        "order": 5,
+        "featured": true,
+        "shortBio": "Software Engineer by day, Machine Learning Researcher by night. Buğra has been developing Android applications and SDK’s for over 5+ in various domains and countries. He is passionate about Machine Learning and has been researching ML in Boğaziçi University since 2015. Currently, he is managing a team of Android devs, and leading AI/ML transformation at Commencis",
+        "company": "Commencis",
+        "companyLogoUrl": "https://www.commencis.com/file/2018/03/commencis-logo-light-web.svg",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/Commencis_Bugra_Oral.jpg?alt=media&token=a12f1e72-d766-4655-b032-e417b8ec387d",
+        "socials": [
+            {
+                "icon": "linkedin",
+                "link": "https://tr.linkedin.com/in/bu%C4%9Fra-oral-9409862b",
+                "name": "Twitter"
+            },
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/bugra_oral",
+                "name": "Twitter"
+            }
+        ],
+        "name": "Buğra Oral",
+        "country": "Turkey",
+        "bio": "Software Engineer by day, Machine Learning Researcher by night. Buğra has been developing Android applications and SDK’s for over 5+ in various domains and countries. He is passionate about Machine Learning and has been researching ML in Boğaziçi University since 2015. Currently, he is managing a team of Android devs, and leading AI/ML transformation at Commencis",
+        "tags": [
+            "Machine Learning & AI"
+        ]
+    },
+    "OnderG": {
+        "title": "Google Cloud Country Manager",
+        "order": 1,
+        "featured": true,
+        "shortBio": "Google Cloud Country Manager",
+        "company": "Google",
+        "companyLogoUrl": "https://devfest.istanbul/images/logos/google.svg",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/onder.jpg?alt=media&token=b9711122-48fd-452d-8a2a-65850a8992f9",
+        "socials": [
+            {
+                "icon": "linkedin",
+                "link": "https://tr.linkedin.com/in/alp-önder-guler-b767881/",
+                "name": "Linkedin"
+            }
+        ],
+        "name": "Önder Guler",
+        "country": "Turkey",
+        "bio": "Specialties: Information technology hardware, application and networking sales management, consumer, small business, enterprise, telecom industry, business development, leadership, restructring, innovation, Web 2.0, Internet, strategic planning, emerging markets, corporate social responsibility, telecommunications, data, voice, video and convergence",
+        "tags": [
+            "Keynote"
+        ]
+    },
+    "CemalKayacan": {
+        "title": "Cloud Customer Engineer at Google",
+        "order": 5,
+        "featured": true,
+        "shortBio": "Cloud Customer Engineer at Google",
+        "company": "Google",
+        "companyLogoUrl": "https://devfest.istanbul/images/logos/google.svg",
+        "photoUrl": "https://media.licdn.com/dms/image/C4E03AQHN-WFBeuYz0Q/profile-displayphoto-shrink_800_800/0?e=1546473600&v=beta&t=870UwqkHXEtVPjupLzC8OCPD1wzVT954baGBvTOIHbk",
+        "socials": [
+            {
+                "icon": "linkedin",
+                "link": "https://tr.linkedin.com/in/cemal-kayacan-2027675/",
+                "name": "Linkedin"
+            }
+        ],
+        "name": "Cemal Kayacan ",
+        "country": "Turkey",
+        "bio": "SpecialtiesExperienced and accomplished technical sales professional with +10 years of multinational workplace experience who is continuously developing & leveraging skills on cloud, software defined data center, network transformation (SDN, NFV) data analytics and workplace transformation.",
+        "tags": [
+            "Machine Learning & AI"
+        ]
+    },
+    "EnesBurakDündar": {
+        "title": "Ar-Ge Mühendisi – Yapı Kredi Teknoloji Ar-Ge ve Özel Projeler",
+        "order": 6,
+        "featured": false,
+        "shortBio": "Ar-Ge Mühendisi – Yapı Kredi Teknoloji Ar-Ge ve Özel Projeler",
+        "company": "Yapı Kredi",
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/logo_ykb_erkek_logo%20copy.jpg?alt=media&token=0f1bc544-0e2e-4ad8-ad7e-d092893936d6",
+        "photoUrl": "https://media.licdn.com/dms/image/C4D03AQFMOOSVoDtjAg/profile-displayphoto-shrink_800_800/0?e=1546473600&v=beta&t=ep189DFR9Lo_qRlEsbZ_EcFvVyLt5zplVgrKZyvg-YQ",
+        "socials": [
+            {
+                "icon": "linkedin",
+                "link": "https://tr.linkedin.com/in/enes-burak-dündar-7438a7115/",
+                "name": "Linkedin"
+            }
+        ],
+        "name": "Enes Burak Dündar ",
+        "country": "Turkey",
+        "bio": "",
+        "tags": [
+            "Machine Learning & AI"
+        ]
+    },
+    "gdgist": {
+        "bio": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
+        "company": "GDG Istanbul",
+        "companyLogo": "/images/logos/gdg_istanbul_logo.png",
+        "country": "Turkey",
+        "featured": false,
+        "name": "GDG Istanbul",
+        "photoUrl": "https://devfest.istanbul/images/logo-monochrome.png",
+        "shortBio": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
+        "socials": [
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/company/2943205/",
+                "name": "Linkedin"
+            },
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/GDGIstanbul",
+                "name": "Twitter"
+            },
+            {
+                "icon": "facebook",
+                "link": "https://www.facebook.com/GDGIstanbul/",
+                "name": "Facebook"
+            },
+            {
+                "icon": "github",
+                "link": "https://github.com/gdgistanbul/",
+                "name": "Github"
+            },
+            {
+                "icon": "website",
+                "link": "http://www.gdgistanbul.com/",
+                "name": "Website"
+            }
+        ],
+        "tags": [
+            "Community"
+        ]
     }
-
 }

@@ -1,7 +1,12 @@
 {
     "000": {
-        "url": "http://fikrimuhal.com/",
-        "name": "Fikrimuhal",
-        "logoUrl": "http://fikrimuhal.com/wp-content/uploads/2014/11/logo_sag-02-01-300x113.png"
+        "url": "https://www.hivecdn.com",
+        "name": "hiveCDN",
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/hivecdn_logo_472x240.png?alt=media&token=38ca1413-59ab-4ffe-ae2e-d1a0a6c043fe"
+    },
+    "001": {
+        "name": "Clapper",
+        "logoUrl": "https://www.clapper.agency/logo-app.png",
+        "url": "https://www.clapper.com.tr"
     }
 }
